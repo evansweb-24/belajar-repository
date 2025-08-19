@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FFF9BF;
+
+}
+.liburan{
+    width: 50%;
+    height: 10vh;
+    margin: 0 auto;
+    background-color: #CB9DF0;
+
+
+}
+.gambar  {
+    width: 100%;
+    height: 100vh;
+
+    
+}
+
+.cuti {
+    width: 50%;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ffffff;
+}
